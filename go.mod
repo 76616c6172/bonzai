@@ -1,4 +1,4 @@
-module github.com/rwxrob/bonzai
+module github.com/76616c6172/bonzai
 
 go 1.18
 
